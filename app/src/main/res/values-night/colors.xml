@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color">#060c12</color> <!--finsteres distinktives Blau-->
+    <color name="dark_text_daymode">#060c12</color> <!--DAYMODE TXT , dasselbe wie main_color aktuell :D-->
+    <color name="light_text_nightmode">#dddddd</color> <!--NIGHTMODE TXT , dasselbe wie main_color aktuell :D-->
+    <!--TODO 4.4.24 colors.xml (night) einpflegen , hier ist alles durcheinander lOOOLOOFDSOL jasper ist geraddeh ier in AHbmuarg OHOUUOUOU 5.5555REGEEEEEEEEEN.-->
+
+    <!--1 irgendwas-->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightgrey">#dddddd</color>
+    <color name="darkgrey">#282828</color>
+
+    <!--2A farbem für category buttons-->
+    <color name="lightgreen">#43d843</color>
+    <color name="green">#075805</color>
+    <color name="red">#df2807</color>
+    <color name="darkred">#7e0707</color>
+    <color name="violet">#8d10c5</color>
+    <color name="cyan">#03d4d8</color>
+    <color name="orange">#f99a08</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blueish">#1984e5</color>
+    <!--2B ausgegraute farbem für category buttons-->
+    <color name="grayedlightgreen">#abf2a9</color>
+    <color name="grayedgreen">#8eb88e</color>
+    <color name="grayedred">#b88080</color>
+    <color name="grayeddarkred">#9f5656</color>
+    <color name="grayedviolet">#b189c5</color>
+    <color name="grayedcyan">#a2ced2</color>
+    <color name="grayedorange">#dfc9a6</color>
+    <color name="grayedblueish">#98b5d2</color>
+
+    <!--neue colors seit Neubau 00:12 11.10.23 :D mein gebututusackler-->
+    <color name="color_item_unselected">#2596be</color>  <!-- this is nice grey that also the home_grey , profile_grey , search_grey initial items haiv-->
+
+
+    <!--DARKDARKGREY(day),LIGHTGREY(night)-->                           <color name="color_ui">#9e9393</color>
+
+
+    <!--TODO(A) farben insb. darkmode sind noch nicht petra-approved - stattdessen vlt. 1 EINZIGE hellere Farbe als app UIP (unique identifying pt xD) ?-->
+    <!--RED-->                           <color name="color_one">#b20c0c</color>
+    <!--main finsterblue-->              <color name="color_two">#060c12</color>
+
+    <!--TODO(C) glaube, die beiden hier werden nie benutzt, war seinerzeit wg. Publish , buttons ausgrauen weil getaudiofromphone-button noch da war-->
+    <color name="colorausgegraut">#949494</color>
+
+</resources>
+
+

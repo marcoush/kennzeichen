@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration Plates</string>
+    <string name="main">Main page</string>
+    <string name="proceedtogame">Proceed to game</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="back">Back</string>
+    <string name="fullversion">Full version (change requires game restart)</string>
+    <string name="gamesettings">Game settings</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="fieldempty">Field is empty</string>
+    <string name="yes">Yes</string>
+    <string name="settings">Settings</string>
+    <string name="screenmode">Screen mode</string>
+    <string name="language">Language</string>
+    <string name="configureappsettings">Adjust app settings</string>
+    <string name="title_profile">Profile</string>
+    <string name="skip">skip</string>
+    <string name="correct">Correct: </string>
+    <string name="skipped">Skipped: </string>
+    <string name="loading">loading …</string>
+    <string name="numberplates">Registration plates:</string>
+    <string name="minutes">Minutes:</string>
+    <string name="numberplate">Registration plates</string>
+    <string name="ort">Place</string>
+    <string name="guessednumberplates">guessed registration plates</string>
+    <string name="all">All</string>
+    <string name="statistics">Statistics</string>
+    <string name="of"> of </string>
+    <string name="abortgame"><![CDATA[Abort & show score]]></string>
+    <string name="guessnumberplate">Guess registration plate</string>
+    <string name="guessplace">Guess place</string>
+    <string name="guesses">Guesses</string>
+    <string name="places_dativ">places</string> <!--TODO versuche loL! was ist das. karambolage in der ciddi-->
+    <string name="numberplates_dativ">registration plates</string> <!--TODO versuche loL! was ist das. karambolage in der ciddi-->
+    <string name="newgame">Play\nagain</string> <!--TODO versuche loL! was ist das. karambolage in der ciddi-->
+    <string name="guessedplaces">guessed places</string> <!--TODO versuche loL! was ist das. karambolage in der ciddi-->
+
+</resources>

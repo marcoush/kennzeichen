@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Kennzeichen</string>
+    <!--Startseite-->
+    <string name="main">Startseite</string>
+
+    <!--Spieler-->
+    <string name="proceedtogame">Weiter zum Game</string>
+
+    <!--Schwierigkeitsgrad-->
+    <string name="difficulty">Schwierigkeit</string>
+    <string name="gamesettings">Spieleinstellungen</string>
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="fullversion">Vollversion (Änderung erfordert Spielneustart)</string>
+
+    <!--PicoloExtremhart/Normal-->
+
+    <!--Utility-->
+    <string name="back">Zurück</string>
+    <string name="fieldempty">Feld ist leer</string>
+    <string name="game_over" translatable="false">GAME OVER</string>
+    <string name="yes">Ja</string>
+    <string name="settings">Einstellungen</string>
+    <string name="screenmode">Bildschirmmodus</string>
+    <string name="system" translatable="false">System</string>
+    <string name="language">Sprache</string>
+    <string name="configureappsettings">Appeinstellungen bearbeiten</string>
+    <string name="germanabbreviation" translatable="false">DE</string>
+    <string name="englishabbreviation" translatable="false">EN</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_profile">Profil</string>
+    <string name="skip">überspringen</string>
+    <string name="correct">Korrekt: </string>
+    <string name="skipped">Übersprungen: </string>
+    <string name="loading">lädt …</string>
+    <string name="quizzes" translatable="false">Quizzes</string>
+    <string name="onemin" translatable="false">1 min</string>
+    <string name="threemin" translatable="false">3 min</string>
+    <string name="fivemin" translatable="false">5 min</string>
+    <string name="twenty" translatable="false">20</string>
+    <string name="thirty" translatable="false">30</string>
+    <string name="fifty" translatable="false">50</string>
+    <string name="numberplates">Kennzeichen</string>
+    <string name="minutes">Minuten</string>
+    <string name="numberplate">Kennzeichen</string>
+    <string name="ort">Ort</string>
+    <string name="guessednumberplates">erratene Kennzeichen</string>
+    <string name="all">Alle</string>
+    <string name="statistics">Statistiken</string>
+    <string name="of">von</string>
+    <string name="abortgame"><![CDATA[Vorzeitig beenden & Score anzeigen]]></string>
+    <string name="guessnumberplate">Kennzeichen raten</string>
+    <string name="guessplace">Ort raten</string>
+    <string name="guesses">Versuche</string>
+    <string name="places_dativ">Orten</string>
+    <string name="numberplates_dativ">Kennzeichen</string>
+    <string name="newgame">Nochmal\nspielen</string>
+    <string name="guessedplaces">erratene Orte</string> <!--TODO versuche loL! was ist das. karambolage in der ciddi-->
+
+</resources>
